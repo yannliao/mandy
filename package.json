@@ -1,0 +1,12 @@
+{
+  "name": "mandy",
+  "version": "0.0.1",
+  "description": "Mandy web framework",
+  "main": "lib/application.js",
+  "repository": "https://github.com/yannliao/mandy.git",
+  "author": "yannliao <trembleliao@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "finalhandler": "^1.0.0"
+  }
+}

@@ -3,10 +3,20 @@
   "version": "0.0.1",
   "description": "Mandy web framework",
   "main": "lib/application.js",
-  "repository": "https://github.com/yannliao/mandy.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yannliao/mandy.git"
+  },
   "author": "yannliao <trembleliao@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
   "dependencies": {
     "finalhandler": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "supertest": "^3.0.0"
   }
 }

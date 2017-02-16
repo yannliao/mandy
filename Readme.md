@@ -17,6 +17,6 @@ Mandy is an HTTP server framework for node.js. It is created by taking cues from
       res.end('Hello world!\n');
     });
 
-    //listen on port
+    //listen on port 3000
     app.listen(3000);
 

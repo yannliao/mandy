@@ -1,6 +1,5 @@
 # Mandy
 
-***
 
 [![Build Status][travis-image]][travis-url]
 
@@ -26,3 +25,17 @@ Mandy is an HTTP server framework for node.js. It is created by taking cues from
     //listen on port 3000
     app.listen(3000);
 
+
+## Running Tests
+
+```bash
+yarn install
+yarn test
+```
+
+## License
+
+[MIT](LICENSE)
+
+[travis-image]: https://travis-ci.org/yannliao/mandy.svg?branch=master
+[travis-url]: https://travis-ci.org/yannliao/mandy

@@ -1,4 +1,10 @@
 # Mandy
+
+***
+
+[![Build Status][travis-image]][travis-url]
+
+
 Mandy is an HTTP server framework for node.js. It is created by taking cues from koa and connect.
 
 # Example

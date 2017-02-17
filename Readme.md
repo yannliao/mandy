@@ -2,6 +2,7 @@
 
 
 [![Build Status][travis-image]][travis-url]
+[![Coverage][coveralls-image]][coveralls-url]
 
 
 Mandy is an HTTP server framework for node.js. It is created by taking cues from koa and connect.
@@ -39,3 +40,5 @@ yarn test
 
 [travis-image]: https://travis-ci.org/yannliao/mandy.svg?branch=master
 [travis-url]: https://travis-ci.org/yannliao/mandy
+[coveralls-image]: https://coveralls.io/repos/github/yannliao/mandy/badge.svg
+[coveralls-url]: https://coveralls.io/github/yannliao/mandy

@@ -15,6 +15,7 @@
     "test-ci": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --require test/env --reporter spec --check-leaks test/"
   },
   "dependencies": {
+    "express": "^4.14.1",
     "finalhandler": "^1.0.0"
   },
   "devDependencies": {
